@@ -45,7 +45,7 @@ Click [this link](https://knazario.github.io/Project_3_Team_1/) to be redirected
 On the left side of the page, we created a sidebar where the user can navigate to:
 - A side-by-side view of our maps, which gives an alternative view to compare the changes in both EV charger locations as well as population changes by zip code from 2018 to 2022
 - Two graphical representations of EV registration data over 5 years:
-    - A bar chart showing the difference between EV and Non-EV registartions
+    - A bar chart showing the difference between EV and Non-EV registrations
     - A line chart showing the growth trend of EVs
 - An interactive map highlighting several Tesla charging stations around the sate, as well as information on facilities and services nearby those charging stations
 
