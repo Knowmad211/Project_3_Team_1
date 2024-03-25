@@ -35,7 +35,7 @@ We honed in on Washington State as registered car data was more publicly accessi
 
 ## Project Overview
 We plan to use a map with filters that are including but not limited to:
-- Population density - by zipcode
+- Population density - by zip code
 - Charging stations - markers that identity each station in addition to information on those stations
 - Restaurants - Amount & relative distance to charging stations
 
@@ -47,10 +47,10 @@ On the left side of the page, we created a sidebar where the user can navigate t
 - Two graphical representations of EV registration data over 5 years:
     - A bar chart showing the difference between EV and Non-EV registrations
     - A line chart showing the growth trend of EVs
-- An interactive map highlighting several Tesla charging stations around the sate, as well as information on facilities and services nearby those charging stations
+- An interactive map highlighting several Tesla charging stations around the state, as well as information on facilities and services nearby those charging stations
 
 ## Analysis
-- Based off the information we gathered, there does seem to be an ever-growing increase of EV registrations, as well as an increase of EV charging stations around the State of Washington. This indicates to us that electric vehicles are indeed becoming more and more popular, and we believe that with the improvements and higher number of charging stations (as well as facilities, services, and food options around those charging stations), the adoption rate of electric vehicles will continue to grow into the future. Right now, the highest concentrations of charging stations and EV registrations seems to be in more dense urban areas, however the trend is consistent across even the more rural areas where charging stations are becoming more and more accessible. 
+- Based on the information we gathered, there does seem to be an ever-growing increase of EV registrations, as well as an increase of EV charging stations around the State of Washington. This indicates to us that electric vehicles are indeed becoming more and more popular, and we believe that with the improvements and higher number of charging stations (as well as facilities, services, and food options around those charging stations), the adoption rate of electric vehicles will continue to grow into the future. Right now, the highest concentrations of charging stations and EV registrations seems to be in more dense urban areas, however the trend is consistent across even the more rural areas where charging stations are becoming more and more accessible. 
 
 ## Ethical Considerations
 - We took the ethical handling of our data very seriously for this project. We made sure to only use publicly-available data, sourced from open-source government websites. Privacy is one of our top priorities, and none of the data used contains personally identifiable information or anything that could potentially identify any individuals or groups. We have repurposed this data for instructional and educational purposes only, and will never use it for any monetization or commercial purposes. The preparation of our data was done simply to filter and extract the most relevant information for our project (narrowing our data only to the State of Washington), and none of the data was altered in any way that would compromise the accuracy or anonymity of the source data.
